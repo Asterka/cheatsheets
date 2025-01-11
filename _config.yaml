@@ -1,0 +1,10 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - npm.md
+  - package.json
+  - css-flexbox.md
+  - css-grid.md
